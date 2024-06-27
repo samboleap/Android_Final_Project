@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601723175596",
+    "project_id": "stacklabassignment",
+    "storage_bucket": "stacklabassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601723175596:android:9d7aea630aa8a74a96d509",
+        "android_client_info": {
+          "package_name": "com.sovattanasamboleap.stacklab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHC70YJzpn-V5Dpy7vTWeQuy6Q77lf2pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
